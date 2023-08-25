@@ -1,5 +1,7 @@
 ﻿// Jogo de Adição
 
+//TESTE GIT
+
 using System;
 
 //Declaração das Funções
@@ -19,7 +21,7 @@ void JogoDeAdivinhação()
 
     //Estrututa de Repetição
 
-    while(numJogadorNumerico != numRandom)
+    while(numJogadorNumerico != numRandom) 
     {
         //Console.WriteLine("Adivinhe um outro número");
         //numJogador = Console.ReadLine()!;
