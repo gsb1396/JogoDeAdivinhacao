@@ -1,7 +1,5 @@
 ﻿// Jogo de Adição
 
-//TESTE GIT
-
 using System;
 
 //Declaração das Funções
